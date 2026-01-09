@@ -1,0 +1,2 @@
+# End-to-End-Sales-Forecasting-Dashboard-Power-BI-Time-Series-Analysis
+An advanced Power BI project focused on forecasting sales using historical data and time series analysis. The dashboard evaluates demand trends, seasonality, and performance variability, and provides forward-looking insights through forecast models and KPI tracking. Designed to help stakeholders anticipate demand and improve revenue planning.
