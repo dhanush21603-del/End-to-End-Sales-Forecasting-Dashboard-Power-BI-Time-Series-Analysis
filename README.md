@@ -1,16 +1,20 @@
 # End-to-End-Sales-Forecasting-Dashboard-Power-BI-Time-Series-Analysis
 An advanced Power BI project focused on forecasting sales using historical data and time series analysis. The dashboard evaluates demand trends, seasonality, and performance variability, and provides forward-looking insights through forecast models and KPI tracking. Designed to help stakeholders anticipate demand and improve revenue planning.
 
-📦 sales-forecasting-power-bi
- ┣ 📂 data
- ┃ ┗ raw_sales_data.xlsx
- ┣ 📂 dashboards
- ┃ ┗ forecasting_dashboard.pbix
- ┣ 📂 screenshots
- ┃ ┣ forecast_trend.png
- ┃ ┣ actual_vs_forecast.png
- ┃ ┗ model_performance.png
- ┣ 📄 README.md
+# Power-BI-Forecasting-Project/
+│
+├── README.md
+├── forecasting_dashboard.pbix
+├── dataset/
+│   └── online_retail_dataset.xlsx
+│
+├── screenshots/
+│   ├── 01_Executive_Sales_Overview.png
+│   ├── 02_Growth_Seasonality_Analysis.png
+│   ├── 03_Rolling_Metrics_Trend.png
+│   ├── 04_Sales_Forecast_Next_3_Months.png
+│   └── 05_Business_Recommendations.png
+
 
  # 📈 Sales Forecasting using Power BI
 
